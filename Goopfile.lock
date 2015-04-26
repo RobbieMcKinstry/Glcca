@@ -1,0 +1,9 @@
+github.com/Sirupsen/logrus #26709e2714106fb8ad40b773b711ebce25b78914
+github.com/bugsnag/bugsnag-go #0e8ffa67b77100f831fb25dfeac5cffc2668f93c
+github.com/bugsnag/osext #0dd3f918b21bec95ace9dc86c7e70266cfc5c702
+github.com/bugsnag/panicwrap #e5f9854865b9778a45169fc249e99e338d4d6f27
+github.com/codegangsta/cli #30b361bf66a60174a9589458afbf494478bafd00
+github.com/getsentry/raven-go #2a89fe0c685600d6500c4017468259ace5b7b1eb
+github.com/onsi/ginkgo/ginkgo #ae043a2b2a91d6441adedc96d2c01958a78ee516
+github.com/onsi/gomega #a91b9a2e8063d07570320914bfe10a91d9323074
+github.com/tobi/airbrake-go #5b5e269e1bc398d43f67e43dafff3414a59cd5a2
