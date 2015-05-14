@@ -1,5 +1,6 @@
 {
   "lexemes" : {
-      "identifier": "[A-Za-z]+"
+      "identifier":       "[A-Za-z]+",
+      "integer_literal":  "[0-9]+"
    }
 }
