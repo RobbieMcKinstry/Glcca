@@ -1,0 +1,5 @@
+{
+  "lexemes" : {
+      "identifier": "[A-Za-z]+"
+   }
+}
